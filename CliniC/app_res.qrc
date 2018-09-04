@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>clinic_wellcom.jpg</file>
+        <file>inside_clinic1.jpg</file>
+        <file>inside_clinic2.jpg</file>
+        <file>inside_clinic3.jpg</file>
+        <file>inside_clinic4.jpg</file>
+        <file>inside_clinic5.jpg</file>
+        <file>wooden_back1.jpg</file>
+        <file>wooden2.jpg</file>
+        <file>logout.png</file>
+        <file>logout_big.png</file>
+        <file>next_icon.png</file>
+        <file>patient_info_back.jpg</file>
+        <file>settings_back.jpg</file>
+        <file>hours_combo_back.jpg</file>
+    </qresource>
+</RCC>
