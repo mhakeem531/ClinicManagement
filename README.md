@@ -58,11 +58,7 @@
  ```
   ![Add Patients](https://github.com/mhakeem531/ClinicManagement/blob/master/screens/add_new_daily_patient.png)
   
-   
- ```
- After some patients have been added
- ```
-  ![Add Patients](https://github.com/mhakeem531/ClinicManagement/blob/master/screens/after_add_some_daily_patients.png)
+
   
   ```
  Add patient for Comming Appointment
